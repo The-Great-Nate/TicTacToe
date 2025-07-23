@@ -1,6 +1,9 @@
 
 class Player:
     def __init__(self, name, symbol):
+        """
+        Constructor here
+        """
         self.name = name
         self.symbol = symbol  # 'X' or 'O'
 
