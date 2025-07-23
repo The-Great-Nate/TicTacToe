@@ -66,6 +66,7 @@ class Game:
     def is_draw(self):
         """
         Check if the board is full with no winner.
+        boring ending
         """
         # TODO: Check for draw
         pass
