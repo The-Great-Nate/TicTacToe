@@ -6,6 +6,9 @@ class Player:
         """
         self.name = name
         self.symbol = symbol  # 'X' or 'O'
+        print("Hello")
+        print("Bye")
+        print(12394814*1239237891234/123910294/2+42351241431241-67)
 
     def get_move(self):
         """
@@ -66,7 +69,6 @@ class Game:
     def is_draw(self):
         """
         Check if the board is full with no winner.
-        boring ending
         """
         # TODO: Check for draw
         pass
